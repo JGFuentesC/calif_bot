@@ -1,0 +1,10 @@
+pandas
+google-cloud-firestore
+jupyter
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+functions-framework
+Flask
+requests
+glom
